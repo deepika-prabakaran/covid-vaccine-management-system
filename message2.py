@@ -1,5 +1,5 @@
 import requests
-contact_no = 9361338393
+contact_no = 963025741
 url = "https://www.fast2sms.com/dev/bulk"
 payload = f"sender_id=FSTSMS&message=Congrats! You are sucessfully vaccinated with both the doses=english&route=p&numbers={contact_no}"
 headers = {
